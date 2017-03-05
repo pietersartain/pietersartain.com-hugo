@@ -1,0 +1,7 @@
+[submodule "themes/hemingway2"]
+	path = themes/hemingway2
+	url = https://github.com/beli3ver/hemingway2.git
+[submodule "public"]
+	path = public
+	url = git@github.com:pietersartain/pietersartain.github.io.git
+	branch = master

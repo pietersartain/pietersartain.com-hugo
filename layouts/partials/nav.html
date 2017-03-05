@@ -1,0 +1,36 @@
+<style>
+  .nav-left h1 { text-align: left; }
+  .nav-left p { font-size: 0.7rem; }
+  .nav-left p.type { font-style: italic; }
+  div.content a { color: #f2583e !important ; }
+  div.content a.icon { color: #000 !important ; text-decoration: none; }
+  .content a:not(.button) { border-bottom: 0px; }
+  .content a:not(.button):hover { text-decoration: underline; }
+  .has-text-centered a { color: #FFD8BE; }
+  .has-text-centered p { color: #ddd; font-size: 0.7rem; }
+  .has-text-centered img { opacity: 0.1; }
+</style>
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="{{ .Site.BaseURL }}">
+        <h1 class="title is-4">{{ .Site.Title }} 
+          <p class="type">noun</p>
+          <p class="definition">&nbsp;&nbsp;&nbsp;1. I know what I should do, but I'm gonna do something else.</p>
+        </h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          {{ range .Site.Params.social }}
+          <a class="level-item" href="{{ .url }}">
+            <span class="icon">
+              <i class="fa {{ .fa_icon }}"></i>
+            </span>
+          </a>
+          {{ end }}
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
