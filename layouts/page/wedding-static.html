@@ -1,0 +1,141 @@
+<html>
+<head>
+	<title>Pam + Piete Getting Married 02-12-2017</title>
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700|Shadows+Into+Light" rel="stylesheet">
+	<style>
+		body { 
+			font-family: 'Raleway', sans-serif; 
+			transition: background-color 500ms 0s;
+			text-align: center;
+			color: white;
+		}
+
+		ul {
+			text-align: left			
+		}
+
+		h1 { 
+			font-weight: 400;
+			margin-top: 100px;
+		}
+
+		header { 
+			/*border: 2px solid white;*/
+			max-width: 33%; 
+			min-width: 200px;
+			margin-bottom: 300px;
+			margin-top: 200px;
+			padding: 0;
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		header > h1 {
+			font-family: 'Shadows Into Light', cursive;
+			color: white;
+			font-weight: 400;
+			padding: 0;
+			margin: 0;
+		}
+
+		header > h2 {
+			font-weight: 400;
+			background-color: white;
+			padding: 10px;
+			margin: 0;
+			color: black;
+		}
+
+		p {
+/*			background-color: white;
+			color: black;
+*/		}
+
+
+.slide{
+	/*border-bottom: 2px solid rgba(255,255,255,1);*/
+	/*height: 700px;*/
+}
+
+/*.slide500 {height: 500px;}
+.slide700 {height: 700px;}
+*/
+
+.content#first {
+	padding-bottom: 100px;
+}
+
+.content#last {
+	padding-bottom: 250px;
+}
+
+.content{
+	min-width: 300px;
+	max-width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	</style>
+
+<!--
+Thank you stranger on the internet!
+https://github.com/anushbmx/Change-Page-Background-on-Scroll
+-->
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script language="javascript">
+$(document).ready(function(){  
+  var wHeight = $(window).innerHeight();
+  var siblings = $('.slide').siblings();
+  var perset = {};
+  var sumHeight = 0;
+  for(var i = 0; i<siblings.length; i++) {
+    if(siblings[i].dataset.background){
+      perset[sumHeight] =  siblings[i].dataset.background;
+    }
+    else
+      perset[sumHeight] =  0;
+
+    sumHeight= sumHeight + siblings[i].clientHeight;
+  }
+  processScroll();
+
+  function lessThan(nums, key){
+    if(nums == null || nums.length == 0 || key ==0 ) 
+      return 0;
+    low = 0;
+    high = nums.length -1;
+    while(low <= high){
+        mid = parseInt((low + high) >> 1);
+        if(key <= nums[mid]){
+            high = mid - 1;
+        }else {
+            low = mid +1;
+        }
+    }
+    return high;
+  }
+
+  var scroll_pos = 0;
+
+  function processScroll() { 
+    scroll_pos = $(this).scrollTop();
+
+    var presetHeights = Object.keys(perset);
+    var x = lessThan(presetHeights,scroll_pos);
+    var bgColor = perset[presetHeights[x]];
+    if(bgColor) {
+      $("body").css('background-color',bgColor);
+    }
+  }
+
+  $(document).scroll(processScroll);
+});
+	</script>
+
+</head>
+<body>
+{{ .Content }}
+</body>
+</html>
