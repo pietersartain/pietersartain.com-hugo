@@ -5,7 +5,7 @@ type = "page"
 layout = "wedding-static"
 +++
 
-<div class="slide" data-background="rgb(255, 188, 140)">
+<div class="slide" data-background="rgb(240, 158, 120)">
 <div class="content" id="first">
 <header>
 <h1><span id="pam">Pam</span> + Piete</h1>
@@ -28,7 +28,7 @@ layout = "wedding-static"
  <li>3:30pm - you can start turning up at Edes House.  </li>
  <li>4pm - ceremony</li>
  <li>4:30pm - bar opens for drinks (and photos being taken!)</li>
- <li>5:30pm - food served (seasonal hot fork buffet)</li>
+ <li>5:30pm - food available (seasonal hot fork buffet)</li>
  <li>6pm - boardgame room open!</li>
  <li>7:30pm - cutting (and eating) of the (cheese)cakes</li>
  <li>10pm - closing time, time to go</li>
@@ -38,7 +38,7 @@ layout = "wedding-static"
 
 <p>There's going to be a Christmas market on in Chichester that day as well, in case anyone is there early and needs occupying.</p>
 
-<p>The food and drink menu is available ,,, here ,,, if you'd like to see what's on offer. The cheesecakes will be surprise, but </p>
+<p>The food and drink menu is available <a href="https://docs.google.com/document/d/1hT4B20dtzf19ggB4gURMF5GyzJa6V2jnVykDi6YOTbE/edit?usp=sharing">here</a> if you'd like to see what's on offer. The cheesecakes will be a surprise, but we have plenty of choices for everyone (including vegetarian!).</p>
 
 
 </div>
@@ -66,7 +66,7 @@ layout = "wedding-static"
 
 <h1>Lots of tiny people</h1>
 
-<p>Turns out that a lot of our friends have children of one age or another, so bring them with you! Just make sure you take the correct child home afterwards ...</p>
+<p>Turns out that a lot of our friends &amp; family have children of one age or another, so bring them with you! Just make sure you take the correct child home afterwards ...</p>
 
 <p>Don't want to bring your child? That's fine too. Do whatever you're most comfortable with.</p>
 
@@ -85,7 +85,7 @@ layout = "wedding-static"
 
 <h1>Staying over</h1>
 
-The closest place to Edes House is <a href="https://www.travelodge.co.uk/hotels/496/Chichester-Central-hotel?rooms%5B0%5D%5BroomId%5D=eecevx3g8w5ono&rooms%5B0%5D%5Badults%5D=1&rooms%5B0%5D%5Bchildren%5D=0&rooms%5B0%5D%5Bextras%5D%5B0%5D=&strikeThroughShown=0">a Travelodge within 3 minutes walk</a>. We're obviously heading home after the event, but we're happy to investigate alternative options for you (we'll be checking TripAdvisor!) if you let us know.
+The closest place to Edes House is <a href="https://www.travelodge.co.uk/hotels/496/Chichester-Central-hotel?rooms%5B0%5D%5BroomId%5D=eecevx3g8w5ono&rooms%5B0%5D%5Badults%5D=1&rooms%5B0%5D%5Bchildren%5D=0&rooms%5B0%5D%5Bextras%5D%5B0%5D=&strikeThroughShown=0">a Travelodge within 3 minutes walk</a>. We're obviously heading home after the event, but we're happy to investigate alternative options for you (we'll be checking <a href="https://www.tripadvisor.co.uk/">TripAdvisor</a>!) if you let us know.
 
 <h1>The day after</h1>
 
@@ -100,13 +100,12 @@ We really have no plans for the day after except sleeping in, so if you've alrea
 What do you need to do next?  Please let us know ...
 
 <ul>
- <li>... if you're coming and how many of you there will be!</li>
- <li>... if you have any food requirements not already catered for!</li>
- <li>... if you need parking!</li>
- <li>... if there's anything else we can do to make this better</li>
+    <li>... if you're coming and how many of you there will be!</li>
+    <li>... what your food preferences are (none, vegetarian, vegan, nut allergy, etc)</li>
+    <li>... if you need parking!</li>
 </ul>
 
-If you have any questions (any at all!), let us know, otherwise, we hope to see you on the day!
+If you have any questions (any at all!), let us know, otherwise, see you there!
 
 <header>
 <h1><span id="pam">Pam</span> + Piete</h1>
@@ -121,6 +120,7 @@ If you have any questions (any at all!), let us know, otherwise, we hope to see 
 <h1> Changelog</h1>
 
 <ul>
+ <li>20170906 Mobile responsive + word tweaks.</li>
  <li>20170905 Words massaged and site up.</li>
  <li>20170829 Figuring out the words</li>
 </ul>

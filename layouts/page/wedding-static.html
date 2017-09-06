@@ -1,80 +1,118 @@
 <html>
 <head>
 	<title>Pam + Piete Getting Married 02-12-2017</title>
+
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700|Shadows+Into+Light" rel="stylesheet">
 	<style>
-		body { 
-			font-family: 'Raleway', sans-serif; 
-			transition: background-color 500ms 0s;
-			text-align: center;
-			color: white;
-		}
 
-		ul {
-			text-align: left			
-		}
+/*
+ * Designed using the mobile-first responsive design
+ * pattern, based on the responsive media query breaks
+ * found in 320andup.
+ * http://stuffandnonsense.co.uk/projects/320andup/
+ *
+ * This only works if (at least the last) the following are set in the 
+ * <head> of the html:
+ * <meta name="HandheldFriendly" content="True">
+ * <meta name="MobileOptimized" content="320"/>
+ * <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ *
+ * @author Pieter E Sartain
+ * @date   20170906
+ */
 
-		h1 { 
-			font-weight: 400;
-			margin-top: 100px;
-		}
+/* This is a kinda imaginary min-width mediaquery
+ * Having this set up like this means that by default,
+ * sizes that we haven't specified will get the mobile
+ * view.
+ */
+/* @media only screen and (min-width : 320px) */
 
-		header { 
-			/*border: 2px solid white;*/
-			max-width: 33%; 
-			min-width: 200px;
-			margin-bottom: 300px;
-			margin-top: 200px;
-			padding: 0;
-			text-align: center;
-			margin-left: auto;
-			margin-right: auto;
-		}
+	body { 
+		font-family: 'Raleway', sans-serif; 
+		transition: background-color 500ms 0s;
+		text-align: center;
+		color: white;
+		line-height: 175%;
+	}
 
-		header > h1 {
-			font-family: 'Shadows Into Light', cursive;
-			color: white;
-			font-weight: 400;
-			padding: 0;
-			margin: 0;
-		}
+	a, a:visited {
+		background-color: white;
+		color: black;
+		padding: 6px;
+		border-radius: 3px;
+		text-decoration: none;
+	}
 
-		header > h2 {
-			font-weight: 400;
-			background-color: white;
-			padding: 10px;
-			margin: 0;
-			color: black;
-		}
+	a:hover {
+		background-color: silver;
+	}
 
-		p {
-/*			background-color: white;
-			color: black;
-*/		}
+	ul {
+		text-align: left;
+	}
 
+	h1 { 
+		font-weight: 400;
+		margin-top: 100px;
+	}
 
-.slide{
-	/*border-bottom: 2px solid rgba(255,255,255,1);*/
-	/*height: 700px;*/
+	header { 
+		margin-bottom: 300px;
+		margin-top: 200px;
+		padding: 0;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 300px; 
+	}
+
+	header > h1 {
+		font-family: 'Shadows Into Light', cursive;
+		color: white;
+		font-weight: 400;
+		padding: 0;
+		margin: 0;
+	}
+
+	header > h2 {
+		font-weight: 400;
+		background-color: white;
+		padding: 10px;
+		margin: 0;
+		color: black;
+	}
+
+	.content#first {
+		padding-bottom: 100px;
+	}
+
+	.content#last {
+		padding-bottom: 250px;
+	}
+
+	.content{
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+@media only screen and (min-width : 512px) {
+
+	header {
+	}
+
+	.content{
+		max-width: 512px;
+	}
+
 }
 
-/*.slide500 {height: 500px;}
-.slide700 {height: 700px;}
-*/
-
-.content#first {
-	padding-bottom: 100px;
-}
-
-.content#last {
-	padding-bottom: 250px;
-}
-
-.content{
-	min-width: 300px;
-	max-width: 50%;
-	margin-left: auto;
-	margin-right: auto;
+@media only screen and (min-width : 1382px) {
+/* Styles */
 }
 
 	</style>
