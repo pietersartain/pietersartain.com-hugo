@@ -14,7 +14,33 @@ layout = "wedding-static"
 
 <p>You are invited to Pam and Piete's wedding on 2nd December 2017 (so, yes, pretty soon), with the ceremony at 4pm, at <a href="https://www.westsussex.gov.uk/leisure-recreation-and-community/events-activities-and-community-venues/edes-house/">Edes House in Chichester</a>.</p>
 
-<p>(scroll down)</p>
+<p>(scroll down - now with added FAQ!)</p>
+</div>
+</div>
+
+<div class="slide" data-background="rgb(189, 165, 208)">
+<div class="content">
+<h1>Questions, answers &amp; other stuff</h1>
+
+<p>We've had some questions, and got some answers!</p>
+
+<h2>Does the venue have baby changing facilities?</h2>
+<p>Yes! In both the mens and ladies toilets.</p>
+
+<h2>When is the parking available from?</h2>
+<p>The spaces are available on Saturday 2nd December from 0800 and the cars must be gone by 0700 on Monday 4th December.</p>
+
+<h2>Any other venue information?</h2>
+<p>A few bits ... </p>
+<ul>
+    <li>There will be seats reserved at the front for family and witnesses for the ceremony, but the rest is absolutely free for all.</li>
+    <li>We will make sure you can get drinks both upstairs and downstairs, so kindly ask that you avoid carrying them between floors.</li>
+    <li>Although we're not expecting a raucus late night, please be considerate of the neighbours when you leave.</li>
+    <li>When we stop serving drinks, it's time to go!</li>
+    <li>If you need a taxi, then venue is happy to help arrange that.</li>
+    <li>The venue is a no-smoking building, so vaping &amp; smoking outside only please!</li>
+</ul>
+
 </div>
 </div>
 
@@ -97,7 +123,7 @@ We really have no plans for the day after except sleeping in, so if you've alrea
 <div class="content" id="last">
 <h1>What to do next!</h1>
 
-What do you need to do next?  Please let us know ...
+What do you need to do next?  Between now and the end of September, please let us know ...
 
 <ul>
     <li>... if you're coming and how many of you there will be!</li>
@@ -120,6 +146,7 @@ If you have any questions (any at all!), let us know, otherwise, see you there!
 <h1> Changelog</h1>
 
 <ul>
+ <li>20171029 Added FAQ</li>
  <li>20170906 Mobile responsive + word tweaks.</li>
  <li>20170905 Words massaged and site up.</li>
  <li>20170829 Figuring out the words</li>
