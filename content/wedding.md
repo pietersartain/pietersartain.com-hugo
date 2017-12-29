@@ -1,6 +1,5 @@
 +++
 date = "2017-12-02"
-menu = "wedding"
 type = "page"
 layout = "wedding-static"
 +++
@@ -9,12 +8,57 @@ layout = "wedding-static"
 <div class="content" id="first">
 <header>
 <h1><span id="pam">Pam</span> + Piete</h1>
+<p>
+<div class="row">
+    <div class="column">
+        <img src="/wedding/2017guestbook.jpg">
+        <img src="/wedding/2017lapelflower.jpg">
+        <img src="/wedding/j.jpg">
+    </div>
+    <div class="column">
+        <img src="/wedding/f.jpg">
+        <img src="/wedding/2017happycouple.jpg">
+        <img src="/wedding/2017thankyoucards.jpg">
+    </div>
+    <div class="column">
+        <img src="/wedding/e.jpg">
+        <img src="/wedding/b.jpg">
+        <img src="/wedding/g.jpg">
+    </div>
+    <div class="column">
+        <img src="/wedding/a.jpg">
+        <img src="/wedding/d.jpg">
+        <img src="/wedding/i.jpg">
+    </div>
+</div>
+</p>
+<h2>02 - 12 - 17</h2>
+</header>
+
+<p>Thank you to every one for such a wonderful day! We both had a lovely time catching up with you all, playing games and of course, eating all the food!</p>
+
+<p>While we've not got the "official" photos back yet, please do feel free to relive the event via the magic of the internet and our <a href="https://drive.google.com/drive/folders/1gP313uFTDosCHbdAUOmGgCtgizCd0Vdu?usp=sharing">photo gallery</a>.</p>
+
+<p>If what you really want is some more cheesecake (who doesn't!), then take a look through the <a href="https://drive.google.com/open?id=1Za41uU2sbc1oa5eyeIYoD-XzgvO78iskC9xkBrMGzY8">cheesecake recipes</a> Stewart used and has been gracious enough to share with everyone.</p>
+
+<p>Special thanks to Vicky for the paper flowers, to Stewart for the cheesecake, and to all of you for joining us: to have your love and support meant a lot to us both.</p>
+
+<p> - Pieter &amp; Pamela Sartain</p>
+
+</div>
+</div>
+
+
+<div class="slide" data-background="rgb(189, 165, 208)">
+<div class="content">
+
+<header>
+<h1><span id="pam">Pam</span> + Piete</h1>
 <h2>02 - 12 - 17</h2>
 </header>
 
 <p>You are invited to Pam and Piete's wedding on 2nd December 2017 (so, yes, pretty soon), with the ceremony at 4pm, at <a href="https://www.westsussex.gov.uk/leisure-recreation-and-community/events-activities-and-community-venues/edes-house/">Edes House in Chichester</a>.</p>
 
-<p>(scroll down - now with added FAQ!)</p>
 </div>
 </div>
 
