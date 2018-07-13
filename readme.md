@@ -18,5 +18,10 @@ The next steps here are:
  * HTTPS everywhere. I'm uncertain how to do this without access to a web server, but I'm positive it's more possible now than it ever has been in the past.
  * Pygments code highlighting
 
+## Basic usage
+
+`~$ hugo server` will run a server on `localhost:1313` you can use to check your work.
+`~$ ./deploy.sh` will do the hoop jumping exercises necessary to publish this to github pages.
+
 # Copyright & licensing
 The content (located under content/post/) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

@@ -35,9 +35,11 @@ Enter the uncertainty continuum. I don't know exactly where this came from or ho
 
 So the typical packaged project (what you might call a "high clarity" project) looks much like this, as far as proportions of work go:
 
+<pre>
  Existing knowledge  Learning Building
 |-------------------|--------|---------|
                    70%  100%  0%   100%
+</pre>
 
 At worst, the team knows around 70% of what's needed to get going, so they only have a 30% of learning to do during your project, and the rest of it is about building.
 
@@ -47,9 +49,11 @@ Think about the last time you spent that much time investigating compared to jus
 
 If that's a best case, what does an uncertain project (also: vague or "low clarity") look like in this model?
 
+<pre>
  Existing  Learning            Building
 |--------|--------------------|---------|
       30%               100% 0%   100%
+</pre>
 
 Yikes. Nearly twice as much clarification as there is building. No wonder your team is frustrated by the lack of building!
 
