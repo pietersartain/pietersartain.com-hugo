@@ -15,5 +15,3 @@ Firstly, they're both paraphrased, so my apologies if I've misquoted. The mistak
 So to all my friends who have put up with insufferable me for the past few months, thank you. I could not have made it this far without you.
 
 And to the quoted: maybe you should take some of your own advice? Lean on friends and find something you really want to do.
-
-{{tag>}}

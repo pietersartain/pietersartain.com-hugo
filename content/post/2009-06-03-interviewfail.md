@@ -8,6 +8,7 @@ Interview over. I walked out feeling like that was a total fail. It didn't help 
 
 Anyway, the technical test was interesting. Turns out I revised all the wrong topics. There was a confusing recursive program (as they always are) which contained a snippet similar to:
 
+<pre>
 {% highlight c %}
 if (a == 1)
 	if (b == 1)
@@ -19,6 +20,7 @@ if (a == 1)
 if (b == 1) 
 	...
 {% endhighlight %}
+</pre>
 
 Having just written a test procedure to see exactly what happens, I can say with reasonable authority that this will fail to compile. The else has no braces. Unlike my thinking which went something along the lines of "if a one-line *if* executes the line below, and that's a one-line *else*, so which *if* does it apply to? " which is clearly wrong.
 
@@ -48,5 +50,3 @@ This little snippet of understanding is following on the heels of what another a
 My 6-month stint with my current employer doesn't look great on my CV, but people understand when I explain I've been with the same group since I left university.
 
 I won't hear about this position for another week at the earliest. So time to get back in the saddle and find something that looks really cool.
-
-{{tag>}}

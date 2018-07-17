@@ -10,6 +10,7 @@ There were plenty of things I think I missed, and equally plenty of things I cou
 
 The C was interesting, ditto the FIFO. I did not excel at either, but I learnt a lot (always make a point of saying how much you'd like to learn - I didn't).
 
+<pre>
 {% highlight c %}
 int m;
 ...
@@ -23,6 +24,7 @@ if (*input == A_CHAR)
 return orange(input++,n++);
 }
 {% endhighlight %}
+</pre>
 
 Using a tail (?) recursion to iterate through a string to locate a match with A_CHAR (some constant, could be A, could o ... we talked it through with e). What's interesting is that I didn't pick up the faults when I read the code. input++, for example should be ++input, and the will actually cause a stack overflow. To say nothing of the fact that using recursion for a problem like this is a silly idea, I think I gave the "right" answer when I said I'd be using a for loop.
 

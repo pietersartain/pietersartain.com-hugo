@@ -8,7 +8,7 @@ Every journey begins with a single step, and for jobs, that's getting your CV to
 
 ## The list
 
-I job hunted fairly heavily before I left work - and did a bit more afterwards - but with [my crushing defeat]({{ site.url }}/{{ page.lang }}/2009/06/03/interviewfail.html) coming so close to the end of such a difficult contract, I found things were pretty raw and I was still fairly emotional over it all, which in retrospect probably made me quite unappealing to the agents and agencies.
+I job hunted fairly heavily before I left work - and did a bit more afterwards - but with [my crushing defeat]({{< relref "2009-06-03-interviewfail.md" >}}) coming so close to the end of such a difficult contract, I found things were pretty raw and I was still fairly emotional over it all, which in retrospect probably made me quite unappealing to the agents and agencies.
 
 I did some housework and organisation, but eventually I knew I needed to go back to work, especially if I wanted to pay for new shiny toys! The moral of the following story is: use the tools available.
 
