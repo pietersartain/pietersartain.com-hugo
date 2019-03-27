@@ -60,4 +60,4 @@ Ultimately you need to be comfortable with what your CV says about you. It’s y
 
 Your CV is working if you're getting plenty of calls about it. If you can't get through to a face-to-face, that's probably not because you have a bad CV. But that's another topic, for another time.
 
-While I'm not in the market for a new job as of this post date, you can find my last used actual CV [here](/public/pesartain-manager-resume-20170228.pdf) and my hero paragraph and current work history on [LinkedIn](https://www.linkedin.com/in/pietersartain/) where I've taken _most_ of my own advice.
+While I'm not in the market for a new job as of this post date, you can find my hero paragraph and current work history on [LinkedIn](https://www.linkedin.com/in/pietersartain/) where I've taken _most_ of my own advice.
