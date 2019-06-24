@@ -26,9 +26,9 @@ I need something to plug into the main wifi that doesn't bridge the two networks
 
 So I need this TeslaBridge system to do a few things:
 
- * Some kind of small computer to do the routing.
- * A wifi access point.
- * Some way of connecting the computer to the Orbi.
+ * Do some routing between two networks, probably with some kind of small computer.
+ * Offer a a wifi access point to the car.
+ * Connect to the main Orbi router.
 
 ## Initial thoughts
 
@@ -45,7 +45,7 @@ So the two pieces left are:
  1. How to make the access point stuff work?
  2. How to selectively bridge the two networks together?
 
-Tackling the second point first was my biggest unknown. Curiously, this sort of isolated network routing is very much the same shape as if you wanted to do security research and leave a honeypot connected to your internet without risking your main network. More searching and I found this rather wonder article on [erratasec.com](https://blog.erratasec.com/2016/10/configuring-raspberry-pi-as-router.html#.XJ_Y3uv7TOQ) describing all that needs to be done for a honeypot setup, especially the network bridging. The major differences between his setup and mine is that he's using two hardwired ethernet ports, and I need to build a wireless access point into mine, but at this point all you're doing is configuring iptables rules between interfaces, and it shouldn't matter what type of interfaces you're using.
+Tackling the second point first was my biggest unknown. Curiously, this sort of isolated network routing is very much the same shape as if you wanted to do security research and leave a honeypot connected to your internet without risking your main network. More searching and I found this rather wonderful article on [erratasec.com](https://blog.erratasec.com/2016/10/configuring-raspberry-pi-as-router.html#.XJ_Y3uv7TOQ) describing all that needs to be done for a honeypot setup, especially the network bridging. The major differences between his setup and mine is that he's using two hardwired ethernet ports, and I need to build a wireless access point into mine, but at this point all you're doing is configuring iptables rules between interfaces, and it shouldn't matter what type of interfaces you're using.
 
 The second point was easier, because building a wifi access point out of a Raspberry Pi is a common enough request that the lovely people at the RaspPi consortion have written [a whole page about it](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md).
 
@@ -135,7 +135,9 @@ I'm still constrained by an ethernet cable and a USB socket, but the both the Or
 
 My first thought was to plug into the satellite which is upstairs in a room overlooking the drive way. While the RaspPi was happy being powered and got nicely hidden under my desk, the car didn't get a strong enough signal for that to be worth it.
 
-My second effort was to relocate the whole lot back downstairs and maneuvre the Pi onto the bay window. Finally, success. With two bars in the car, it seemed good enough. A tiny bit of cable routing care later and I've verified the car has connected (/var/log/syslog) and checked using the car's browser that I can actually get to websites.
+My second effort was to relocate the whole lot back downstairs and maneuvre the Pi onto the bay window. With the wifi aerial in the right-hand mirror of the car, my parking with the bay on my right, this seems like a good combo. 
+
+Success! With two bars in the car, it seemed good enough for a first pass. A tiny bit of cable routing care later and I've verified the car has connected (/var/log/syslog) and checked using the car's browser that I can actually get to websites.
 
 Special guest wifi! The TeslaBridge is live.
 
