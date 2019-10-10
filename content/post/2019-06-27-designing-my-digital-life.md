@@ -1,7 +1,7 @@
 ---
 title: "Designing my digital life (again)"
 date: 2019-06-27 23:02:00
-categories: life design, privacy, security, privacy badgers
+categories: life design, privacy, security, second digital life
 ---
 
 Nearly a decade ago I discovered the power of controlling my environment by being deliberate in how I wanted to operate. This consisted of reflecting on what "systems" I wanted to use and what mental models served me. This ranged from the delightfully banal ("how do I want to hang my washing?") to the rather more esoteric ("I desire my wallet to function exactly like this"), which often brought an associated step of having to build that thing.
@@ -11,7 +11,7 @@ It's been a decade since I last actively designed my digital life and a few thin
  * Over the past decade Google has shut down Wave, Reader, and recently Inbox, making my world a little bit less good each time, and the service removal entirely out of my control.
  * Earlier this year, Dropbox started [changing its offering](https://blog.dropbox.com/topics/product-tips/new-dropbox) away from what I had signed up for (a sync service) and toward more of a 1-stop business collaboration platform, and [I don’t even get a choice to stick with what I’ve got](https://www.dropbox.com/buy) - I will be moved to their new thing next billing cycle, effectively putting a timer on my time with Dropbox.
  * The refrain for increased privacy continues, meanwhile I shop my phone number to every one who asked for two-factor authentication to "be more secure".
- * Some conversations with a group of friends (collectively we are the Privacy Badgers!) has highlighted that reasoning about the services we use is hard, and it’d be good to understand if there are any heuristics we can create to actually have half a chance of talking about privacy and security without devolving into full-blown tin-foil hat territory.
+ * Some conversations with a group of friends has highlighted that reasoning about the services we use is hard, and it’d be good to understand if there are any heuristics we can create to actually have half a chance of talking about privacy and security without devolving into full-blown tin-foil hat territory.
 
 ## Service closures and alterations
 
@@ -27,7 +27,7 @@ So the metaphorical pot has been on the stove for some time for me, and now it's
 
 ## Upgrading from a knee-jerk reaction to a journey
 
-This started as an experiment, in reaction to taking away things I liked, but as I've explored the ideas swirling around the pot with my fellow Privacy Badgers, this has become the first step on a journey about ownership. Ownership of the servers and technology: maybe. Taking responsibility for being informed, owning the decisions and risks and understanding what exactly the costs are to me: definitely.
+This started as an experiment, in reaction to taking away things I liked, but as I've explored the ideas swirling around the pot with my friends, this has become the first step on a journey about ownership. Ownership of the servers and technology: maybe. Taking responsibility for being informed, owning the decisions and risks and understanding what exactly the costs are to me: definitely.
 
 The goal of this journey is to be able to reason about and rationalise what services I use and why, articulating the risks of each service I interact with.
 
@@ -75,4 +75,4 @@ Even now, having only done a small amount of work articulating this and changing
 
 With any luck, as a side effect of going through these exercises, I'll find, remember or develop some mental models I can use in the future to help keep my technology simple, and crucially, in service to me; not the other way around.
 
-*A big thank you to the Privacy Badgers for their consultation, proof-reading and additional research.*
+*A big thank you to my friends who are accompanying me on this journy for their consultation, proof-reading and additional research.*
