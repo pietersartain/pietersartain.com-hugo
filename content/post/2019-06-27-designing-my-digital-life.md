@@ -75,4 +75,4 @@ Even now, having only done a small amount of work articulating this and changing
 
 With any luck, as a side effect of going through these exercises, I'll find, remember or develop some mental models I can use in the future to help keep my technology simple, and crucially, in service to me; not the other way around.
 
-*A big thank you to my friends who are accompanying me on this journy for their consultation, proof-reading and additional research.*
+*A big thank you to my friends who are accompanying me on this journey for their consultation, proof-reading and additional research.*
