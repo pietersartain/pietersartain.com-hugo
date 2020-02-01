@@ -1,5 +1,5 @@
 ---
-title: "My second digital life: one small change"
+title: "My second digital life: trying Brave and Duck Duck Go"
 date: 2020-02-02 17:17:00
 categories: life design, privacy, security, second digital life
 ---
