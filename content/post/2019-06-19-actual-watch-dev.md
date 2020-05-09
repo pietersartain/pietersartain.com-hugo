@@ -1,5 +1,5 @@
 ---
-title:  "Experiment: Smart watch reminders - 15 minute vibra-chime"
+title:  "Experiment: smart watch reminders - 15 minute vibra-chime"
 date:   2019-06-19 22:00:00
 categories: project log, code, making, experiments
 ---

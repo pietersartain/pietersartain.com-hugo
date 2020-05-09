@@ -1,7 +1,7 @@
 ---
-title:  "Forum Building"
+title:  "Forum building"
 date:   2010-02-25 12:00:00
-categories: interview
+categories: community
 ---
 
 From time to time, as  we  all do, I get into a new subject or hobby. So into it, infact, that I want to get involved; especially when it's a community run offering or a relatively unknown hobby. 'Involvement' for me means more than just playing the game, running the software or optimising the rules - it means sharing what I know with others and spreading the word impartially. If it's a good product, I like to vote with my mouth as well as my money, and often the fastest way of getting this kind of involvement is getting into the community and steeping myself in the product.

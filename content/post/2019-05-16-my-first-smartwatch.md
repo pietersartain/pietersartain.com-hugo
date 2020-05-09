@@ -1,5 +1,5 @@
 ---
-title: "My First Smartwatch"
+title: "My first smartwatch"
 date: 2019-05-16 18:00:00
 categories: reflection, opinion, toy, tool
 ---

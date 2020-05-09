@@ -1,5 +1,5 @@
 ---
-title:  "Working Around DVD Regions"
+title:  "Working around DVD regions"
 date:   2019-07-27 14:00:00
 categories: project log, experiments
 ---
