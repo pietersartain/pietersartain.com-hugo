@@ -23,3 +23,7 @@ The next steps here are:
 
 # Copyright & licensing
 The content (located under content/post/) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+The theme is "Hemingway2" from beli3ver, which is now offline.
+
+Using FontAwesome icons in content without a network call comes from [Nick Galbreath's post](https://www.client9.com/using-font-awesome-icons-in-hugo/).

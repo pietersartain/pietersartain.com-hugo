@@ -9,6 +9,13 @@
   .has-text-centered a { color: #FFD8BE; }
   .has-text-centered p { color: #ddd; font-size: 0.7rem; }
   .has-text-centered img { opacity: 0.1; }
+  .inline-svg {
+    display: inline-block;
+    height: 1.15rem;
+    width: 1.15rem;
+    top: 0.15rem;
+    position: relative;
+  }
 </style>
 <section class="section">
   <div class="container">
@@ -25,9 +32,7 @@
         <nav class="nav-item level is-mobile">
           {{ range .Site.Params.social }}
           <a class="level-item" href="{{ .url }}">
-            <span class="icon">
-              <i class="fa {{ .fa_icon }}"></i>
-            </span>
+            {{ partial "fontawesome.html" .fa_icon }}
           </a>
           {{ end }}
         </nav>
