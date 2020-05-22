@@ -8,16 +8,16 @@ params:
   social:
   -
     url: "https://github.com/pietersartain"
-    fa_icon: "fa-github"
+    fa_icon: "github"
   -
     url: "https://www.linkedin.com/in/pietersartain"
-    fa_icon: "fa-linkedin"
-  -
-    url: "https://twitter.com/pietersartain"
-    fa_icon: "fa-twitter"
+    fa_icon: "linkedin"
   -
     url: "/post/"
-    fa_icon: "fa-file-text"
+    fa_icon: "file-alt"
+  -
+    url: "/now"
+    fa_icon: "address-card"
   -
     url: "/index.xml"
-    fa_icon: "fa-rss"
+    fa_icon: "rss"
