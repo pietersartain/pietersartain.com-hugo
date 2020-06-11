@@ -21,3 +21,26 @@ params:
   -
     url: "/index.xml"
     fa_icon: "rss"
+
+# taxonomies:
+#   tag: "tags"
+#   category: "categories"
+
+markup:
+  goldmark:
+    # extensions:
+    #   definitionList: true
+    #   footnote: true
+    #   linkify: true
+    #   strikethrough: true
+    #   table: true
+    #   taskList: true
+    #   typographer: true
+    # parser:
+    #   attribute: true
+    #   autoHeadingID: true
+    #   autoHeadingIDType: github
+    renderer:
+      # hardWraps: false
+      unsafe: true # Make inline HTML work.
+      # xhtml: false

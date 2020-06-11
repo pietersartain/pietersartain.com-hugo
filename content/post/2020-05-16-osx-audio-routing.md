@@ -1,7 +1,12 @@
 ---
 title: "Audio routing in OSX"
 date: 2020-05-16 14:00:00
-categories: music, configuration
+categories:
+  - music
+  - configuration
+tags:
+  - music
+  - configuration
 ---
 
 Once upon a time I used to collaborate online and make a lot of music. As I write this, the UK is in the 10th week or so of lockdown (although it's now "stay alert") and I find myself with a little more free time on my hands for things like music, but without a workflow to make the collaboration happen!
