@@ -1,7 +1,14 @@
 ---
 title:  "TeslaBridge II - live in the wild"
 date:   2019-05-24 18:00:00
-categories: development, code, making, retrospective
+categories:
+    - "Design diary"
+    - "Computering"
+tags: 
+    - making
+    - raspberrypi
+    - networking
+    - retrospective
 ---
 
 A couple of months ago, I detailed the construction of a [special guest wifi]({{< relref "2019-03-31-design-diary-special-guest-wifi.md" >}}) for my car, and ended the post having successfully got the car to connect to the bridge and appear, and first blush, to work.

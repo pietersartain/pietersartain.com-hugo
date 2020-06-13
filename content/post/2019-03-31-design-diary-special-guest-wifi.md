@@ -1,7 +1,13 @@
 ---
 title:  "Design diary: special guest wifi"
 date:   2019-03-31 18:00:00
-categories: personal development, code, making, design diary
+categories:
+    - "Design diary"
+    - "Computering"
+tags:
+    - making
+    - raspberrypi
+    - networking
 ---
 
 In late 2017 I bought the best toy I have ever had the pleasure of playing with: a Tesla Model S. I'm not a car-person, so I didn't have to overcome the loss of a combustion engine, and I mostly do a 30 mile round-trip commute, so range anxiety was something that wasn't a huge deal for me. This post isn't about my experiences of the car, this is about getting the car on the wifi.
