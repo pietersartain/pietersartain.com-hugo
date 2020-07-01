@@ -18,9 +18,9 @@ params:
   -
     url: "/now"
     fa_icon: "address-card"
-  -
-    url: "/index.xml"
-    fa_icon: "rss"
+  # -
+  #   url: "/index.xml"
+  #   fa_icon: "rss"
 
 # taxonomies:
 #   tag: "tags"
