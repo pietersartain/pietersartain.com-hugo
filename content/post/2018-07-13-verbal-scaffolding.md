@@ -1,7 +1,12 @@
 ---
 title:  "Verbal scaffolding"
 date:   2018-07-13 23:22:23 
-categories: personal dev
+categories:
+    - "Leadership"
+tags:
+    - Leadership
+    - management
+    - communicating
 ---
 
 This is about communication.
