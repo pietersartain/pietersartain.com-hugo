@@ -27,6 +27,8 @@ My current software stack looks like this:
  * [mda-vst](http://mda.smartelectronix.com/) is another collection of FX. Again I can get 99% from Reaper. I'm not sure I've used any of these in anger, but it's nice to have options.
  * [Native Instruments](https://www.native-instruments.com/en/) makes a couple of different , a much really huge set of samples and presets and shizz, but the stuff I've bought (or gotten accidentally for free, like Revalver) is working just fine for me now. This is pretty heavyweight for what I really use.
 
+All of this is running on a Mac Book Pro, under OSX.
+
 Total cost of about £275 in software between 2011 and 2013. Plus any associated costs to get the [Leap Motion](https://developer.leapmotion.com/setup/desktop) controller and the [Geco Midi](http://uwyn.com/geco/) up and running.
 
 So the total software costs really are nothing compared to my current musical instrument collection of an electric guitar, an acoustic guitar, a bass, a set of Roland V-Drums and most recently a digital piano. So far this seems like a good balance in where the money goes.

@@ -1,6 +1,6 @@
 ---
 title: Understanding guitar tone
-date: 2020-01-24 12:00:00
+date: 2018-01-24 12:00:00
 categories:
     - "Music"
     - "Recording"
@@ -10,7 +10,7 @@ tags:
     - notes
 ---
 
-This post is about a hobby I haven't written about for a long while: music. It's been a significant part of my life since I've been born, and I've been making music on and off since about 1997. Despite that, I've never done a deep dive on electric guitar tone. Mostly this is just reference, to document what I've learned in my explorations so far.
+This post is about a hobby that's been languishing a while: music. It's been a significant part of my life since I've been born, and I've been making music on and off since about 1997. Despite that, I've never done a deep dive on electric guitar tone. Mostly this is just reference, to document what I've learned in my explorations so far.
 
 One day I might swap the ASCII art out for actual images, but one problem at a time :)
 
