@@ -322,3 +322,4 @@ Line 6 Rotomachine, Boss BD-2 Blues Driver as a lead boost (gain low, level high
 Blackstar Series One 100 amp
 Celestion Vintage 30 (12" speakers in typical Marshall cabs)
 
+<!-- Note from 2020-08-15: This was posted today, just to capture some random notes I had bubbling around -->

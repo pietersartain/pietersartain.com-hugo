@@ -2,6 +2,13 @@
 title: 'The uncertainty continuum'
 date: 2018-07-04 23:37:00
 categories: mental models, agile
+categories:
+    - "Agile"
+    - "Leadership"
+tags: 
+    - mental models
+    - agile
+    - project management
 ---
 
 # The uncertainty continuum
