@@ -12,11 +12,11 @@ I currently officially recognise that I've got 4ish projects, and a bunch of sma
 
 ## imo - "in my opinion"
 
-Something that I'm excited about but is a very slow burn is "imo": [https://imo.pietersartain.com/](https://imo.pietersartain.com/). Eventually, I hope to a) never have to write documentation for another organisation again, and can instead simply reference this and b) cross reference all of the links and resources I've gathered, book marked and saved over the decade+ I've been working. It gets erratic amounts of my time, but is being chipped away at. The current state is still in infancy, but as I'm tidying up harddrives and setting up servers, I have this always in my mind.
+Something that I'm excited about but is a very slow burn is "imo": [https://imo.pietersartain.com/](https://imo.pietersartain.com/). Eventually, I hope to a) never have to write documentation for another organisation again, and can instead simply reference this and b) cross reference all of the links and resources I've gathered, bookmarked and saved over the decade+ I've been working. It gets erratic amounts of my time, but is being chipped away at. The current state is still in infancy, but as I'm tidying up harddrives and setting up servers, I have this always in my mind.
 
 ## Building an open technical bootcamp
 
-Part of writing up imo and some chance conversations with friends lead me to start thinking about how someone would cross-train as a software developer, predominently technically. I put some time in, and am currently working through the process with a friend to see how they get on and if the programme has any viability. With a fixed time schedule, it's also  really helpful at holding me accountable and moving this forward on weekly basis.
+Part of writing up imo and some chance conversations with friends lead me to start thinking about how someone would cross-train as a software developer, predominently technically. I put some time in, and am currently working through the process with a friend to see how they get on and if the programme has any viability. With a fixed time schedule, it's really helpful at holding me accountable and moving this forward on weekly basis.
 
 ## Home life renovation
 
