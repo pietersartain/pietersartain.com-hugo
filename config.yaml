@@ -2,6 +2,7 @@ languageCode: "en-us"
 title: "rational human"
 theme: hemingway2
 baseURL: https://www.pietersartain.com/
+refLinksErrorLevel: WARNING
 
 params:
   social:
