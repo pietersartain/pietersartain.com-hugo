@@ -1,19 +1,19 @@
 ---
 title: "Personal virtual computing pt 2: the design"
-date: 2020-08-05 12:00:00
+date: 2020-08-15 12:00:00
 categories:
   - "Computing"
 tags:
 ---
 
-_This is a series about my journey in building a multipurpose PC using virtualisation technology and RGB strips. This is part 2, which is about some of the research and design choices I made. If you want some self-indulgent history, try [part 1]({{< relref "2020-08-05-personal-virtual-computing.md" >}}), if you want to read about the construction, start at [part 3]({{< relref "2020-08-27-personal-virtual-computing-iii.md" >}})._
+_This is a series about my journey in building a multipurpose PC using virtualisation technology and RGB strips. This is part 2, which is about some of the research and design choices I made. If you want some self-indulgent history, try [part 1]({{< relref "2020-08-05-personal-virtual-computing-i.md" >}}), if you want to read about the construction, start at [part 3]({{< relref "2020-08-20-personal-virtual-computing-iii.md" >}})._
 
 I'm trying to accomplish two things with one machine:
 
  * A recording / 3D design / gaming rig. This is "upgrade my laptop".
  * Part-NAS for longer term storage of data, digital assets and backups. This is "replace my USB backup drive".
 
-So in my mind this takes the form of a "gaming NAS" ala [LTT's Gaming NAS](https://www.youtube.com/watch?v=dpXhSrhmUXo) also linked off of [part 1]({{< relref "2020-08-05-personal-virtual-computing.md" >}}) of this discussion. Fair warning, I'm going to capture some of the thoughts I had on each of these sections, but this wasn't a linear research process for me. I had half an idea, and read up a lot before consolidating that idea. I'll talk more about the pros and cons of that process at the end.
+So in my mind this takes the form of a "gaming NAS" ala [LTT's Gaming NAS](https://www.youtube.com/watch?v=dpXhSrhmUXo) also linked off of [part 1]({{< relref "2020-08-05-personal-virtual-computing-i.md" >}}) of this discussion. Fair warning, I'm going to capture some of the thoughts I had on each of these sections, but this wasn't a linear research process for me. I had half an idea, and read up a lot before consolidating that idea. I'll talk more about the pros and cons of that process at the end.
 
 Let's get going with some idea of what we're aiming at ...
 

@@ -1,12 +1,12 @@
 ---
 title: "Personal virtual computing pt 3: the build"
-date: 2020-08-05 12:00:00
+date: 2020-08-20 12:00:00
 categories:
   - "Computing"
 tags:
 ---
 
-_This is a series about my journey in building a multipurpose PC using virtualisation technology and RGB strips. This is part 3, which is about putting the pieces together and getting a prototype running. If you want know about why these pieces, try [part 2]({{< relref "2020-08-15-personal-virtual-computing-ii.md" >}}), if you want to know about the software challenges and solutions skip to [part 4]({{< relref "2020-08-30-personal-virtual-computing-iv.md" >}})._
+_This is a series about my journey in building a multipurpose PC using virtualisation technology and RGB strips. This is part 3, which is about putting the pieces together and getting a prototype running. If you want know about why these pieces, try [part 2]({{< relref "2020-08-15-personal-virtual-computing-ii.md" >}}), if you want to know about the software challenges and solutions skip to [part 4]({{< relref "2020-08-27-personal-virtual-computing-iv.md" >}})._
 
 I had a budget in mind of somewhere between £2000 and £3000 - about the same cost as a new 2020 Macbook Pro, and given inflation, the same sort of money I put down 5 years ago.
 
