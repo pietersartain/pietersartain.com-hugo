@@ -1,31 +1,23 @@
 ---
 title: "What am I doing now?"
-date: 2020-07-02
+date: 2020-12-28
 menu: main
 ---
 
-In May 2020, for the first time in my life, I stopped work with the explicit goal to focus on my home life and personal projects.
+In May 2020, for the first time in my life, I stopped work with the explicit goal to focus on my home life and personal projects; to take a sabbatical. In the 6 months since then, I've accomplished more of my todo list than I had in the previous 5 years combined. 
 
-Most people call this a sabbatical, so that's what I'm also calling it.
-
-I currently officially recognise that I've got 4ish projects, and a bunch of smaller spin off things that show up.
-
-## imo - "in my opinion"
-
-Something that I'm excited about but is a very slow burn is "imo": [https://imo.pietersartain.com/](https://imo.pietersartain.com/). Eventually, I hope to a) never have to write documentation for another organisation again, and can instead simply reference this and b) cross reference all of the links and resources I've gathered, bookmarked and saved over the decade+ I've been working. It gets erratic amounts of my time, but is being chipped away at. The current state is still in infancy, but as I'm tidying up harddrives and setting up servers, I have this always in my mind.
-
-## Building an open technical bootcamp
-
-Part of writing up imo and some chance conversations with friends lead me to start thinking about how someone would cross-train as a software developer, predominently technically. I put some time in, and am currently working through the process with a friend to see how they get on and if the programme has any viability. With a fixed time schedule, it's really helpful at holding me accountable and moving this forward on weekly basis.
+The net result is a number of ideas and projects, but the most significant of my brain capacity is between these two things:
 
 ## Home life renovation
 
-When you spend most of your time out of your home, it's easy to ignore all the things (small and large) that need doing. Some of them are physical, such as an unfinished office desk or unsorted shelves, and some of them are more  emotional: not dealing with remnants of one's past, or not having spent sufficient time thinking about the future.
+Work has traditionally been a wonderful distraction from having to confront any of the emotional and physical baggage that I've picked up over the years. Since my todo list has been absolutely ravaged, many of the loose ends and someday-projects (like digitising old home videos) have come to pass. I have a multitude more of these tasks, including handling the aftermath (selling the digitising equipment) as well as other tasks around the house that I'm less keen on (like fixing shower leaks).
 
-Work is a wonderful distraction from having to confront any of that, so, I removed the excuse.
+I have, and continue to, put deliberate focus on friends and family, and carving out time to spend with them. I've enjoyed being significantly closer to my friends, and haven't felt this personally connected to people for a long time.
 
-I'm putting more focus on friends (new and old), and carving out time to spend with them. I'm looking for ways to mix my hobbies in with this, with mixed success currently.
+Being freed from others' agendas has also given me the emotional space and freedom to just _be_. At the time of writing we're in the third lockdown, and while my Christmas spirit has never been very high, it's been laid particularly low. 2020 generally has been (and unfortunately continues to be) a very challenging time. So emotionally, there is still work to be done.
 
-## Back to work
+## Work as play: Hyper Rational Technologies
 
-I lasted 6 days on my sabbatical without applying for a job, but I'm being quite careful about managing expectations of what I'm capable of handling right now and what is too much. So far everyone I've spoken to has understood the sabbatical, and in some cases even admired the step. I hope this continues to be the case.
+I lasted 6 days on my sabbatical before I applied for a job, so ignoring work or attempting to retire was never going to be a long term strategy for me. I had a few interviews - I was rejected for some, I rejected others - and each one taught me an interesting thing about myself. Right now I don't feel excited to be a manager so until something significant changes, my career is about to take a big shift.
+
+While I was tinkering around with hobbies, chatting to friends and otherwise just getting on with living, ideas started sprouting in my mind. A confluence of events occurred, and finally after a dear colleague and friend got in touch, [Hyper Rational Technologies](https://www.hyperrational.tech) was born. It forms my full time job right now, and as I've told numerous people: I have a fantastic job, it just doesn't pay anything, yet.
