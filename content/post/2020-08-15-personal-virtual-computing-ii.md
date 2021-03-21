@@ -123,7 +123,7 @@ Doing some reading around on copy-on-write filesystems, [BTRFS showed up](https:
 
 Both [filesystems had their proponents](https://forum.proxmox.com/threads/proxmox-with-zfs-or-btrfs.50962/), but after a cursory read around, it seemed like there were enough resources out there to proceed. With BTRFS having just been removed from OpenSuSE, I'm less confident in BTRFS' future. Additionally, I've seen plenty of usecases with ZFS supporting [VMs on Proxmox](https://pve.proxmox.com/wiki/Storage) and it's the default on FreeNAS so to stop me going 'round and 'round in circles, I'm making the assumption I'm using ZFS, and I can figure out the [exact tuning](https://martin.heiland.io/2018/02/23/zfs-tuning/) required later.
 
-So, what physical disk configuration do I need for:
+I still had niggling concerns about [performance](https://constantin.glez.de/2010/06/04/a-closer-look-zfs-vdevs-and-performance/), and projecting forward there was the issue of upgrading. Some people said [it was too expensive with ZFS](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html) and [others suggested it was super easy, barely an inconvenience](https://www.itsacon.net/computers/unix/growing-a-zfs-pool/). I needed a way of moving forward, so: what physical disk configuration do I need for:
 
  * High performance VMs (maybe 2 running at once, at most)
  * Docker containers' non-volatile storage
