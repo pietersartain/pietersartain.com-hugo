@@ -78,7 +78,7 @@ After some tinkering, and a great steer from theatre pro Richard, I constructed 
 
 {{< figure src="/post/2020-07-12-upgrading-video-calls/04 reaper soundboard.png" title="A sound board made of Reaper and macros" >}}
 
-I've pulled a bunch of different sounds from [freesound.org]() and spaced them out with markers on the timeline. I have some slightly complicated routing where most of the sounds go through Blackhole and my laptop speaker (as per [the routing audio post]({{< relref "2020-05-16-osx-audio-routing.md" >}})), but the talkback channel at the bottom is taken out of the general routing, and routes directly to blackhole only, so I don't get weird localised feedback.
+I've pulled a bunch of different sounds from [freesound.org](https://freesound.org) and spaced them out with markers on the timeline. I have some slightly complicated routing where most of the sounds go through Blackhole and my laptop speaker (as per [the routing audio post]({{< relref "2020-05-16-osx-audio-routing.md" >}})), but the talkback channel at the bottom is taken out of the general routing, and routes directly to blackhole only, so I don't get weird localised feedback.
 
 The trick to making the soundboard is in another three parts:
 
@@ -97,7 +97,6 @@ The final trick is connecting one OSC client to two OSC servers simultaneously, 
 So that's it. TouchOSC on the phone connects to OSCRouter, which pipes OSC messages through to Reaper on one side for the sounds, and OBS on the other (via ObSC and OBS Web sockets) for the scenes, then all of this is output via Blackhole for audio and OBS virtual cam for video to a video conference of your choice!
 
 {{< figure src="/post/2020-07-12-upgrading-video-calls/05 full setup.png" title="Everything running on one screen" >}}
-
 
 Easy, right?
 
