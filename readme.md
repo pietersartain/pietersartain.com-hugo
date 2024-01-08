@@ -12,14 +12,13 @@ I do find the theme HTML templates and sass not quite to my taste, and certainly
 
 The next steps here are:
 
- * When I'm bored of hoop jumping to get the content published, automate the pipeline. Werker et al provide some good options, but maybe this is a reasonable starting case for [platformr](https://github.com/pietersartain/platformr)?
  * Mobile responsive. This will probably mean disassembling the template and building it back up, because I have yet to construct a sensible strategy for retrofitting mobile & responsive into a non-responsive site.
  * Pygments code highlighting
+ * Review if Hugo is the right tool.
 
 ## Basic usage
 
 `~$ hugo server` will run a server on `localhost:1313` you can use to check your work.
-`~$ ./deploy.sh` will do the hoop jumping exercises necessary to publish this to github pages.
 
 # Copyright & licensing
 The content (located under content/post/) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
